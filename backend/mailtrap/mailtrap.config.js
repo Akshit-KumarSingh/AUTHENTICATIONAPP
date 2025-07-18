@@ -13,7 +13,7 @@ export const sender = {
 
 export const recipients = [
   {
-    email: "akshit.krsingh.mec23@itbhu.ac.in",
+    email: "akshitsingh008@gmail.com",
     name: "Akshit Kumar",
   },
 ];
